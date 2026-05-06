@@ -339,7 +339,7 @@ private: System::Void інформаціяToolStripMenuItem_Click(System::Object^ sender, 
 	MessageBox::Show("Ця програма виконує обчислення добутку елементів головної діагоналі матриці та сортування стовпців з парними індексами за зростанням. Результати відображаються у відповідних полях та таблицях.", "Інформація про програму", MessageBoxButtons::OK, MessageBoxIcon::Information);
 }
 	private: System::Void розробникToolStripMenuItem_Click(System::Object^ sender, System::EventArgs^ e) {
-		MessageBox::Show("Розробник: Рудкевич Ольга Миколаївна\nГрупа: 3СОМ\nДата: 06.05.2026", "Про автора", MessageBoxButtons::OK, MessageBoxIcon::Information);
+		MessageBox::Show("Розробник:  Рудкевич Ольга Миколаївна\nГрупа: 3СОМ\nДата: 06.05.2026", "Про автора", MessageBoxButtons::OK, MessageBoxIcon::Information);
 	}
 };
 }
